@@ -30,5 +30,5 @@ From the training that we've conducted, we obtained the following results :
 For the tomato's model, we got 97,7% accuracy and 0,06% loss.  
 <img src="https://github.com/PlantCareTeam/PlantCare-Machine-Learning/assets/95073909/cd75a9cc-fdc9-482b-991c-af080e014b78" />  
 For the apple's model, we got 92,9% accuracy and 0,21% loss.  
-<img src="https://github.com/PlantCareTeam/PlantCare-Machine-Learning/assets/95073909/8068be07-5210-4c19-8f98-c89ece68b15f />
+<img src="https://github.com/PlantCareTeam/PlantCare-Machine-Learning/assets/95073909/8068be07-5210-4c19-8f98-c89ece68b15f" />
 
